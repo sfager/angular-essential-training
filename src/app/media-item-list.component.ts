@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { MediaItemService } from './media-item.service';
 
 @Component({
   selector: 'mw-media-item-list',
